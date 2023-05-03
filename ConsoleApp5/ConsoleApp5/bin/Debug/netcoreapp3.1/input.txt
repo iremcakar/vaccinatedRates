@@ -1,0 +1,1503 @@
+country	date	daily_vaccinations	vaccines
+Argentina	29.12.2020		Sputnik V
+Argentina	30.12.2020	15656	Sputnik V
+Argentina	31.12.2020	15656	Sputnik V
+Argentina	1.01.2021	11070	Sputnik V
+Argentina	1.02.2021	8776	Sputnik V
+Argentina	1.03.2021	7400	Sputnik V
+Argentina	1.04.2021	6483	Sputnik V
+Argentina	1.05.2021	7984	Sputnik V
+Argentina	1.06.2021	8173	Sputnik V
+Argentina	1.07.2021	8363	Sputnik V
+Argentina	1.08.2021	10519	Sputnik V
+Argentina	1.09.2021	11942	Sputnik V
+Argentina	1.10.2021	13365	Sputnik V
+Argentina	1.11.2021	14788	Sputnik V
+Argentina	1.12.2021	14056	Sputnik V
+Argentina	13.01.2021	13323	Sputnik V
+Argentina	14.01.2021	13320	Sputnik V
+Argentina	15.01.2021	13317	Sputnik V
+Argentina	16.01.2021	12971	Sputnik V
+Argentina	17.01.2021	12624	Sputnik V
+Argentina	18.01.2021	12278	Sputnik V
+Argentina	19.01.2021	11932	Sputnik V
+Argentina	20.01.2021	11586	Sputnik V
+Argentina	21.01.2021	11704	Sputnik V
+Argentina	22.01.2021	11263	Sputnik V
+Argentina	23.01.2021	11124	Sputnik V
+Argentina	24.01.2021	10342	Sputnik V
+Argentina	25.01.2021	9046	Sputnik V
+Austria	26.01.2021		Pfizer/BioNTech
+Austria	27.01.2021	3368	Pfizer/BioNTech
+Austria	28.01.2021	3368	Pfizer/BioNTech
+Austria	29.01.2021	7263	Pfizer/BioNTech
+Austria	30.01.2021	5791	Pfizer/BioNTech
+Austria	31.01.2021	4705	Pfizer/BioNTech
+Austria	1.02.2021	5031	Pfizer/BioNTech
+Austria	2.02.2021	6366	Pfizer/BioNTech
+Austria	3.02.2021	7365	Pfizer/BioNTech
+Austria	4.02.2021	8429	Pfizer/BioNTech
+Austria	5.02.2021	7747	Pfizer/BioNTech
+Austria	6.02.2021	7953	Pfizer/BioNTech
+Austria	7.02.2021	10129	Pfizer/BioNTech
+Austria	8.02.2021	11852	Pfizer/BioNTech
+Austria	9.02.2021	12472	Pfizer/BioNTech
+Austria	10.02.2021	12489	Pfizer/BioNTech
+Austria	11.02.2021	12552	Pfizer/BioNTech
+Austria	12.02.2021	11797	Pfizer/BioNTech
+Austria	13.02.2021	11765	Pfizer/BioNTech
+Austria	14.02.2021	9622	Pfizer/BioNTech
+Bahrain	15.02.2021		Pfizer/BioNTech, Sinopharm
+Bahrain	16.02.2021	11106	Pfizer/BioNTech, Sinopharm
+Bahrain	17.02.2021	5789	Pfizer/BioNTech, Sinopharm
+Bahrain	18.02.2021	4197	Pfizer/BioNTech, Sinopharm
+Bahrain	19.02.2021	3662	Pfizer/BioNTech, Sinopharm
+Bahrain	20.02.2021	3210	Pfizer/BioNTech, Sinopharm
+Bahrain	21.02.2021	2846	Pfizer/BioNTech, Sinopharm
+Bahrain	22.02.2021	2622	Pfizer/BioNTech, Sinopharm
+Bahrain	23.02.2021	1225	Pfizer/BioNTech, Sinopharm
+Bahrain	24.02.2021	1258	Pfizer/BioNTech, Sinopharm
+Bahrain	25.02.2021	1220	Pfizer/BioNTech, Sinopharm
+Bahrain	26.02.2021	1011	Pfizer/BioNTech, Sinopharm
+Bahrain	27.02.2021	943	Pfizer/BioNTech, Sinopharm
+Bahrain	28.02.2021	1122	Pfizer/BioNTech, Sinopharm
+Bahrain	1.03.2021	1594	Pfizer/BioNTech, Sinopharm
+Bahrain	2.03.2021	1942	Pfizer/BioNTech, Sinopharm
+Bahrain	3.03.2021	2706	Pfizer/BioNTech, Sinopharm
+Bahrain	4.03.2021	3437	Pfizer/BioNTech, Sinopharm
+Bahrain	5.03.2021	4080	Pfizer/BioNTech, Sinopharm
+Bahrain	6.03.2021	4427	Pfizer/BioNTech, Sinopharm
+Bahrain	7.03.2021	4840	Pfizer/BioNTech, Sinopharm
+Bahrain	8.03.2021	4699	Pfizer/BioNTech, Sinopharm
+Bahrain	9.03.2021	5332	Pfizer/BioNTech, Sinopharm
+Bahrain	10.03.2021	6361	Pfizer/BioNTech, Sinopharm
+Bahrain	11.03.2021	7572	Pfizer/BioNTech, Sinopharm
+Bahrain	12.03.2021	7473	Pfizer/BioNTech, Sinopharm
+Bahrain	13.03.2021	7176	Pfizer/BioNTech, Sinopharm
+Bahrain	14.03.2021	6546	Pfizer/BioNTech, Sinopharm
+Bahrain	15.03.2021	6110	Pfizer/BioNTech, Sinopharm
+Belgium	16.03.2021		Pfizer/BioNTech
+Belgium	17.03.2021	1	Pfizer/BioNTech
+Belgium	18.03.2021	234	Pfizer/BioNTech
+Belgium	19.03.2021	159	Pfizer/BioNTech
+Belgium	20.03.2021	122	Pfizer/BioNTech
+Belgium	21.03.2021	97	Pfizer/BioNTech
+Belgium	22.03.2021	81	Pfizer/BioNTech
+Belgium	23.03.2021	70	Pfizer/BioNTech
+Belgium	24.03.2021	283	Pfizer/BioNTech
+Belgium	25.03.2021	736	Pfizer/BioNTech
+Belgium	26.03.2021	1855	Pfizer/BioNTech
+Belgium	27.03.2021	3134	Pfizer/BioNTech
+Belgium	28.03.2021	3578	Pfizer/BioNTech
+Belgium	29.03.2021	3634	Pfizer/BioNTech
+Belgium	30.03.2021	4398	Pfizer/BioNTech
+Belgium	31.03.2021	6284	Pfizer/BioNTech
+Belgium	1.04.2021	8558	Pfizer/BioNTech
+Belgium	2.04.2021	10320	Pfizer/BioNTech
+Belgium	3.04.2021	12023	Pfizer/BioNTech
+Belgium	4.04.2021	12246	Pfizer/BioNTech
+Belgium	5.04.2021	12582	Pfizer/BioNTech
+Belgium	6.04.2021	13135	Pfizer/BioNTech
+Belgium	7.04.2021	13001	Pfizer/BioNTech
+Belgium	8.04.2021	12222	Pfizer/BioNTech
+Belgium	9.04.2021	11112	Pfizer/BioNTech
+Belgium	10.04.2021	9632	Pfizer/BioNTech
+Brazil	11.04.2021		Sinovac
+Brazil	12.04.2021	112	Sinovac
+Brazil	13.04.2021	554	Sinovac
+Brazil	14.04.2021	3823	Sinovac
+Brazil	15.04.2021	7136	Sinovac
+Brazil	16.04.2021	27304	Sinovac
+Brazil	17.04.2021	40980	Sinovac
+Brazil	18.04.2021	76825	Sinovac
+Brazil	19.04.2021	86373	Sinovac
+Brazil	20.04.2021	99928	Sinovac
+Bulgaria	21.04.2021		Moderna, Pfizer/BioNTech
+Bulgaria	22.04.2021	2889	Moderna, Pfizer/BioNTech
+Bulgaria	23.04.2021	1477	Moderna, Pfizer/BioNTech
+Bulgaria	24.04.2021	1007	Moderna, Pfizer/BioNTech
+Bulgaria	25.04.2021	799	Moderna, Pfizer/BioNTech
+Bulgaria	26.04.2021	675	Moderna, Pfizer/BioNTech
+Bulgaria	27.04.2021	592	Moderna, Pfizer/BioNTech
+Bulgaria	28.04.2021	533	Moderna, Pfizer/BioNTech
+Bulgaria	29.04.2021	472	Moderna, Pfizer/BioNTech
+Bulgaria	30.04.2021	920	Moderna, Pfizer/BioNTech
+Bulgaria	1.05.2021	1231	Moderna, Pfizer/BioNTech
+Bulgaria	2.05.2021	1222	Moderna, Pfizer/BioNTech
+Bulgaria	3.05.2021	1246	Moderna, Pfizer/BioNTech
+Bulgaria	4.05.2021	1270	Moderna, Pfizer/BioNTech
+Bulgaria	5.05.2021	1476	Moderna, Pfizer/BioNTech
+Bulgaria	6.05.2021	1304	Moderna, Pfizer/BioNTech
+Bulgaria	7.05.2021	938	Moderna, Pfizer/BioNTech
+Bulgaria	8.05.2021	682	Moderna, Pfizer/BioNTech
+Bulgaria	9.05.2021	694	Moderna, Pfizer/BioNTech
+Bulgaria	10.05.2021	662	Moderna, Pfizer/BioNTech
+Bulgaria	11.05.2021	782	Moderna, Pfizer/BioNTech
+Bulgaria	12.05.2021	921	Moderna, Pfizer/BioNTech
+Bulgaria	13.05.2021	1013	Moderna, Pfizer/BioNTech
+Bulgaria	14.05.2021	1081	Moderna, Pfizer/BioNTech
+Bulgaria	15.05.2021	1139	Moderna, Pfizer/BioNTech
+Bulgaria	16.05.2021	1112	Moderna, Pfizer/BioNTech
+Bulgaria	17.05.2021	1099	Moderna, Pfizer/BioNTech
+Bulgaria	18.05.2021	1023	Moderna, Pfizer/BioNTech
+Canada	19.05.2021		Moderna, Pfizer/BioNTech
+Canada	20.05.2021	866	Moderna, Pfizer/BioNTech
+Canada	21.05.2021	1693	Moderna, Pfizer/BioNTech
+Canada	22.05.2021	2301	Moderna, Pfizer/BioNTech
+Canada	23.05.2021	2580	Moderna, Pfizer/BioNTech
+Canada	24.05.2021	2319	Moderna, Pfizer/BioNTech
+Canada	25.05.2021	2366	Moderna, Pfizer/BioNTech
+Canada	26.05.2021	2938	Moderna, Pfizer/BioNTech
+Canada	27.05.2021	3589	Moderna, Pfizer/BioNTech
+Canada	28.05.2021	4487	Moderna, Pfizer/BioNTech
+Canada	29.05.2021	5457	Moderna, Pfizer/BioNTech
+Canada	30.05.2021	5012	Moderna, Pfizer/BioNTech
+Canada	31.05.2021	5261	Moderna, Pfizer/BioNTech
+Canada	1.06.2021	5398	Moderna, Pfizer/BioNTech
+Canada	2.06.2021	5512	Moderna, Pfizer/BioNTech
+Canada	3.06.2021	6352	Moderna, Pfizer/BioNTech
+Canada	4.06.2021	6342	Moderna, Pfizer/BioNTech
+Canada	5.06.2021	7205	Moderna, Pfizer/BioNTech
+Canada	6.06.2021	8378	Moderna, Pfizer/BioNTech
+Canada	7.06.2021	9101	Moderna, Pfizer/BioNTech
+Canada	8.06.2021	9350	Moderna, Pfizer/BioNTech
+Canada	9.06.2021	11044	Moderna, Pfizer/BioNTech
+Canada	10.06.2021	12111	Moderna, Pfizer/BioNTech
+Canada	11.06.2021	14887	Moderna, Pfizer/BioNTech
+Canada	12.06.2021	17662	Moderna, Pfizer/BioNTech
+Canada	13.06.2021	22412	Moderna, Pfizer/BioNTech
+Canada	14.06.2021	26418	Moderna, Pfizer/BioNTech
+Canada	15.06.2021	29046	Moderna, Pfizer/BioNTech
+Canada	16.06.2021	31914	Moderna, Pfizer/BioNTech
+Canada	17.06.2021	33281	Moderna, Pfizer/BioNTech
+Canada	18.06.2021	33646	Moderna, Pfizer/BioNTech
+Canada	19.06.2021	34290	Moderna, Pfizer/BioNTech
+Canada	20.06.2021	35208	Moderna, Pfizer/BioNTech
+Canada	21.06.2021	35134	Moderna, Pfizer/BioNTech
+Canada	22.06.2021	35670	Moderna, Pfizer/BioNTech
+Canada	23.06.2021	36358	Moderna, Pfizer/BioNTech
+Canada	24.06.2021	37521	Moderna, Pfizer/BioNTech
+Canada	25.06.2021	39576	Moderna, Pfizer/BioNTech
+Canada	26.06.2021	39910	Moderna, Pfizer/BioNTech
+Canada	27.06.2021	38417	Moderna, Pfizer/BioNTech
+Canada	28.06.2021	36850	Moderna, Pfizer/BioNTech
+Canada	29.06.2021	35101	Moderna, Pfizer/BioNTech
+Canada	30.06.2021	32183	Moderna, Pfizer/BioNTech
+Chile	1.07.2021		Pfizer/BioNTech
+Chile	2.07.2021	4771	Pfizer/BioNTech
+Chile	3.07.2021	3958	Pfizer/BioNTech
+Chile	4.07.2021	2742	Pfizer/BioNTech
+Chile	5.07.2021	2069	Pfizer/BioNTech
+Chile	6.07.2021	1665	Pfizer/BioNTech
+Chile	7.07.2021	1396	Pfizer/BioNTech
+Chile	8.07.2021	1204	Pfizer/BioNTech
+Chile	9.07.2021	530	Pfizer/BioNTech
+Chile	10.07.2021	88	Pfizer/BioNTech
+Chile	11.07.2021	51	Pfizer/BioNTech
+Chile	12.07.2021	51	Pfizer/BioNTech
+Chile	13.07.2021	250	Pfizer/BioNTech
+Chile	14.07.2021	272	Pfizer/BioNTech
+Chile	15.07.2021	344	Pfizer/BioNTech
+Chile	16.07.2021	417	Pfizer/BioNTech
+Chile	17.07.2021	489	Pfizer/BioNTech
+Chile	18.07.2021	562	Pfizer/BioNTech
+Chile	19.07.2021	635	Pfizer/BioNTech
+Chile	20.07.2021	508	Pfizer/BioNTech
+Chile	21.07.2021	559	Pfizer/BioNTech
+Chile	22.07.2021	1038	Pfizer/BioNTech
+Chile	23.07.2021	1437	Pfizer/BioNTech
+Chile	24.07.2021	1366	Pfizer/BioNTech
+Chile	25.07.2021	1291	Pfizer/BioNTech
+Chile	26.07.2021	2699	Pfizer/BioNTech
+Chile	27.07.2021	5267	Pfizer/BioNTech
+Chile	28.07.2021	5632	Pfizer/BioNTech
+Chile	29.07.2021	6328	Pfizer/BioNTech
+Chile	30.07.2021	5882	Pfizer/BioNTech
+Chile	31.07.2021	6000	Pfizer/BioNTech
+Chile	1.08.2021	6020	Pfizer/BioNTech
+Chile	2.08.2021	4557	Pfizer/BioNTech
+China	3.08.2021		CNBG, Sinovac
+China	4.08.2021	187500	CNBG, Sinovac
+China	5.08.2021	187500	CNBG, Sinovac
+China	6.08.2021	187500	CNBG, Sinovac
+China	7.08.2021	187500	CNBG, Sinovac
+China	8.08.2021	187500	CNBG, Sinovac
+China	9.08.2021	187500	CNBG, Sinovac
+China	10.08.2021	187500	CNBG, Sinovac
+China	11.08.2021	187500	CNBG, Sinovac
+China	12.08.2021	187500	CNBG, Sinovac
+China	13.08.2021	187500	CNBG, Sinovac
+China	14.08.2021	187500	CNBG, Sinovac
+China	15.08.2021	187500	CNBG, Sinovac
+China	16.08.2021	187500	CNBG, Sinovac
+China	17.08.2021	187500	CNBG, Sinovac
+China	18.08.2021	187500	CNBG, Sinovac
+China	19.08.2021	187500	CNBG, Sinovac
+China	20.08.2021	232143	CNBG, Sinovac
+China	21.08.2021	276786	CNBG, Sinovac
+China	22.08.2021	321429	CNBG, Sinovac
+China	23.08.2021	366071	CNBG, Sinovac
+China	24.08.2021	410714	CNBG, Sinovac
+China	25.08.2021	455357	CNBG, Sinovac
+China	26.08.2021	500000	CNBG, Sinovac
+China	27.08.2021	500000	CNBG, Sinovac
+China	28.08.2021	500000	CNBG, Sinovac
+China	29.08.2021	464286	CNBG, Sinovac
+China	30.08.2021	428571	CNBG, Sinovac
+China	31.08.2021	392857	CNBG, Sinovac
+China	1.09.2021	357143	CNBG, Sinovac
+China	2.09.2021	387755	CNBG, Sinovac
+China	3.09.2021	418367	CNBG, Sinovac
+China	4.09.2021	448980	CNBG, Sinovac
+China	5.09.2021	515306	CNBG, Sinovac
+China	6.09.2021	581633	CNBG, Sinovac
+China	7.09.2021	647959	CNBG, Sinovac
+China	8.09.2021	714286	CNBG, Sinovac
+Costa Rica	9.09.2021		Pfizer/BioNTech
+Costa Rica	10.09.2021	240	Pfizer/BioNTech
+Costa Rica	11.09.2021	240	Pfizer/BioNTech
+Costa Rica	12.09.2021	240	Pfizer/BioNTech
+Costa Rica	13.09.2021	240	Pfizer/BioNTech
+Costa Rica	14.09.2021	240	Pfizer/BioNTech
+Costa Rica	15.09.2021	240	Pfizer/BioNTech
+Costa Rica	16.09.2021	240	Pfizer/BioNTech
+Costa Rica	17.09.2021	240	Pfizer/BioNTech
+Costa Rica	18.09.2021	240	Pfizer/BioNTech
+Costa Rica	19.09.2021	240	Pfizer/BioNTech
+Costa Rica	20.09.2021	414	Pfizer/BioNTech
+Costa Rica	21.09.2021	588	Pfizer/BioNTech
+Costa Rica	22.09.2021	763	Pfizer/BioNTech
+Costa Rica	23.09.2021	937	Pfizer/BioNTech
+Costa Rica	24.09.2021	1111	Pfizer/BioNTech
+Costa Rica	25.09.2021	1385	Pfizer/BioNTech
+Costa Rica	26.09.2021	1659	Pfizer/BioNTech
+Costa Rica	27.09.2021	1759	Pfizer/BioNTech
+Costa Rica	28.09.2021	1859	Pfizer/BioNTech
+Costa Rica	29.09.2021	1959	Pfizer/BioNTech
+Costa Rica	30.09.2021	2058	Pfizer/BioNTech
+Costa Rica	1.10.2021	2158	Pfizer/BioNTech
+Costa Rica	2.10.2021	2066	Pfizer/BioNTech
+Costa Rica	3.10.2021	1973	Pfizer/BioNTech
+Costa Rica	4.10.2021	1880	Pfizer/BioNTech
+Croatia	5.10.2021		Pfizer/BioNTech
+Croatia	6.10.2021	1105	Pfizer/BioNTech
+Croatia	7.10.2021	1105	Pfizer/BioNTech
+Croatia	8.10.2021	1105	Pfizer/BioNTech
+Croatia	9.10.2021	1105	Pfizer/BioNTech
+Croatia	10.10.2021	1036	Pfizer/BioNTech
+Croatia	11.10.2021	989	Pfizer/BioNTech
+Croatia	12.10.2021	1334	Pfizer/BioNTech
+Croatia	13.10.2021	1662	Pfizer/BioNTech
+Croatia	14.10.2021	2130	Pfizer/BioNTech
+Croatia	15.10.2021	2689	Pfizer/BioNTech
+Croatia	16.10.2021	2693	Pfizer/BioNTech
+Croatia	17.10.2021	2748	Pfizer/BioNTech
+Croatia	18.10.2021	2802	Pfizer/BioNTech
+Croatia	19.10.2021	2479	Pfizer/BioNTech
+Croatia	20.10.2021	2485	Pfizer/BioNTech
+Croatia	21.10.2021	2364	Pfizer/BioNTech
+Croatia	22.10.2021	2272	Pfizer/BioNTech
+Croatia	23.10.2021	2510	Pfizer/BioNTech
+Croatia	24.10.2021	2747	Pfizer/BioNTech
+Croatia	25.10.2021	2984	Pfizer/BioNTech
+Croatia	26.10.2021	3329	Pfizer/BioNTech
+Croatia	27.10.2021	3343	Pfizer/BioNTech
+Croatia	28.10.2021	3346	Pfizer/BioNTech
+Croatia	29.10.2021	2960	Pfizer/BioNTech
+Croatia	30.10.2021	2800	Pfizer/BioNTech
+Croatia	31.10.2021	2640	Pfizer/BioNTech
+Cyprus	1.11.2021		Pfizer/BioNTech
+Cyprus	2.11.2021	534	Pfizer/BioNTech
+Cyprus	3.11.2021	534	Pfizer/BioNTech
+Cyprus	4.11.2021	534	Pfizer/BioNTech
+Cyprus	5.11.2021	534	Pfizer/BioNTech
+Cyprus	6.11.2021	594	Pfizer/BioNTech
+Cyprus	7.11.2021	635	Pfizer/BioNTech
+Cyprus	8.11.2021	664	Pfizer/BioNTech
+Cyprus	9.11.2021	708	Pfizer/BioNTech
+Cyprus	10.11.2021	751	Pfizer/BioNTech
+Cyprus	11.11.2021	821	Pfizer/BioNTech
+Cyprus	12.11.2021	891	Pfizer/BioNTech
+Cyprus	13.11.2021	917	Pfizer/BioNTech
+Cyprus	14.11.2021	943	Pfizer/BioNTech
+Cyprus	15.11.2021	969	Pfizer/BioNTech
+Cyprus	16.11.2021	996	Pfizer/BioNTech
+Cyprus	17.11.2021	1022	Pfizer/BioNTech
+Czechia	18.11.2021		Moderna, Pfizer/BioNTech
+Czechia	19.11.2021	2229	Moderna, Pfizer/BioNTech
+Czechia	20.11.2021	2798	Moderna, Pfizer/BioNTech
+Czechia	21.11.2021	3010	Moderna, Pfizer/BioNTech
+Czechia	22.11.2021	2583	Moderna, Pfizer/BioNTech
+Czechia	23.11.2021	2119	Moderna, Pfizer/BioNTech
+Czechia	24.11.2021	1974	Moderna, Pfizer/BioNTech
+Czechia	25.11.2021	1822	Moderna, Pfizer/BioNTech
+Czechia	26.11.2021	1994	Moderna, Pfizer/BioNTech
+Czechia	27.11.2021	2128	Moderna, Pfizer/BioNTech
+Czechia	28.11.2021	2439	Moderna, Pfizer/BioNTech
+Czechia	29.11.2021	3361	Moderna, Pfizer/BioNTech
+Czechia	30.11.2021	4730	Moderna, Pfizer/BioNTech
+Czechia	1.12.2021	4832	Moderna, Pfizer/BioNTech
+Czechia	2.12.2021	4944	Moderna, Pfizer/BioNTech
+Czechia	3.12.2021	5812	Moderna, Pfizer/BioNTech
+Czechia	4.12.2021	7042	Moderna, Pfizer/BioNTech
+Czechia	5.12.2021	8132	Moderna, Pfizer/BioNTech
+Czechia	6.12.2021	9103	Moderna, Pfizer/BioNTech
+Czechia	7.12.2021	9588	Moderna, Pfizer/BioNTech
+Czechia	8.12.2021	9771	Moderna, Pfizer/BioNTech
+Czechia	9.12.2021	9963	Moderna, Pfizer/BioNTech
+Czechia	10.12.2021	10515	Moderna, Pfizer/BioNTech
+Czechia	11.12.2021	10743	Moderna, Pfizer/BioNTech
+Czechia	12.12.2021	10919	Moderna, Pfizer/BioNTech
+Czechia	13.12.2021	11087	Moderna, Pfizer/BioNTech
+Czechia	14.12.2021	11174	Moderna, Pfizer/BioNTech
+Czechia	15.12.2021	11220	Moderna, Pfizer/BioNTech
+Czechia	16.12.2021	11136	Moderna, Pfizer/BioNTech
+Czechia	17.12.2021	9226	Moderna, Pfizer/BioNTech
+Denmark	18.12.2021		Moderna, Pfizer/BioNTech
+Denmark	19.12.2021	1994	Moderna, Pfizer/BioNTech
+Denmark	20.12.2021	5527	Moderna, Pfizer/BioNTech
+Denmark	21.12.2021	7525	Moderna, Pfizer/BioNTech
+Denmark	22.12.2021	7223	Moderna, Pfizer/BioNTech
+Denmark	23.12.2021	6254	Moderna, Pfizer/BioNTech
+Denmark	24.12.2021	6712	Moderna, Pfizer/BioNTech
+Denmark	25.12.2021	6616	Moderna, Pfizer/BioNTech
+Denmark	26.12.2021	6679	Moderna, Pfizer/BioNTech
+Denmark	27.12.2021	7319	Moderna, Pfizer/BioNTech
+Denmark	28.12.2021	8525	Moderna, Pfizer/BioNTech
+Denmark	29.12.2021	10138	Moderna, Pfizer/BioNTech
+Denmark	30.12.2021	11022	Moderna, Pfizer/BioNTech
+Denmark	31.12.2021	10008	Moderna, Pfizer/BioNTech
+Denmark	1.01.2022	9261	Moderna, Pfizer/BioNTech
+Denmark	2.01.2022	9008	Moderna, Pfizer/BioNTech
+Denmark	3.01.2022	7139	Moderna, Pfizer/BioNTech
+Denmark	4.01.2022	6098	Moderna, Pfizer/BioNTech
+Denmark	5.01.2022	6122	Moderna, Pfizer/BioNTech
+Denmark	6.01.2022	7052	Moderna, Pfizer/BioNTech
+Denmark	7.01.2022	7451	Moderna, Pfizer/BioNTech
+Denmark	8.01.2022	7800	Moderna, Pfizer/BioNTech
+Denmark	9.01.2022	8567	Moderna, Pfizer/BioNTech
+Denmark	10.01.2022	9160	Moderna, Pfizer/BioNTech
+Denmark	11.01.2022	7840	Moderna, Pfizer/BioNTech
+Denmark	12.01.2022	5852	Moderna, Pfizer/BioNTech
+Denmark	13.01.2022	4568	Moderna, Pfizer/BioNTech
+Denmark	14.01.2022	4948	Moderna, Pfizer/BioNTech
+Denmark	15.01.2022	5299	Moderna, Pfizer/BioNTech
+Denmark	16.01.2022	4439	Moderna, Pfizer/BioNTech
+Ecuador	17.01.2022		Pfizer/BioNTech
+Ecuador	18.01.2022	108	Pfizer/BioNTech
+England	19.01.2022		Oxford/AstraZeneca, Pfizer/BioNTech
+England	20.01.2022	37625	Oxford/AstraZeneca, Pfizer/BioNTech
+England	21.01.2022	37625	Oxford/AstraZeneca, Pfizer/BioNTech
+England	22.01.2022	37625	Oxford/AstraZeneca, Pfizer/BioNTech
+England	23.01.2022	37625	Oxford/AstraZeneca, Pfizer/BioNTech
+England	24.01.2022	37625	Oxford/AstraZeneca, Pfizer/BioNTech
+England	25.01.2022	37625	Oxford/AstraZeneca, Pfizer/BioNTech
+England	26.01.2022	37625	Oxford/AstraZeneca, Pfizer/BioNTech
+England	27.01.2022	39253	Oxford/AstraZeneca, Pfizer/BioNTech
+England	28.01.2022	40882	Oxford/AstraZeneca, Pfizer/BioNTech
+England	29.01.2022	42511	Oxford/AstraZeneca, Pfizer/BioNTech
+England	30.01.2022	44139	Oxford/AstraZeneca, Pfizer/BioNTech
+England	31.01.2022	45768	Oxford/AstraZeneca, Pfizer/BioNTech
+England	1.02.2022	47396	Oxford/AstraZeneca, Pfizer/BioNTech
+England	2.02.2022	49025	Oxford/AstraZeneca, Pfizer/BioNTech
+England	3.02.2022	65678	Oxford/AstraZeneca, Pfizer/BioNTech
+England	4.02.2022	82331	Oxford/AstraZeneca, Pfizer/BioNTech
+England	5.02.2022	98984	Oxford/AstraZeneca, Pfizer/BioNTech
+England	6.02.2022	115637	Oxford/AstraZeneca, Pfizer/BioNTech
+England	7.02.2022	132290	Oxford/AstraZeneca, Pfizer/BioNTech
+England	8.02.2022	148943	Oxford/AstraZeneca, Pfizer/BioNTech
+England	9.02.2022	165596	Oxford/AstraZeneca, Pfizer/BioNTech
+England	10.02.2022	162002	Oxford/AstraZeneca, Pfizer/BioNTech
+England	11.02.2022	165152	Oxford/AstraZeneca, Pfizer/BioNTech
+England	12.02.2022	176950	Oxford/AstraZeneca, Pfizer/BioNTech
+England	13.02.2022	193243	Oxford/AstraZeneca, Pfizer/BioNTech
+England	14.02.2022	215973	Oxford/AstraZeneca, Pfizer/BioNTech
+England	15.02.2022	231918	Oxford/AstraZeneca, Pfizer/BioNTech
+England	16.02.2022	230525	Oxford/AstraZeneca, Pfizer/BioNTech
+England	17.02.2022	234877	Oxford/AstraZeneca, Pfizer/BioNTech
+England	18.02.2022	251122	Oxford/AstraZeneca, Pfizer/BioNTech
+England	19.02.2022	261507	Oxford/AstraZeneca, Pfizer/BioNTech
+England	20.02.2022	272972	Oxford/AstraZeneca, Pfizer/BioNTech
+England	21.02.2022	287384	Oxford/AstraZeneca, Pfizer/BioNTech
+England	22.02.2022	311226	Oxford/AstraZeneca, Pfizer/BioNTech
+England	23.02.2022	317419	Oxford/AstraZeneca, Pfizer/BioNTech
+Estonia	24.02.2022		Pfizer/BioNTech
+Estonia	25.02.2022	309	Pfizer/BioNTech
+Estonia	26.02.2022	338	Pfizer/BioNTech
+Estonia	27.02.2022	567	Pfizer/BioNTech
+Estonia	28.02.2022	570	Pfizer/BioNTech
+Estonia	1.03.2022	459	Pfizer/BioNTech
+Estonia	2.03.2022	385	Pfizer/BioNTech
+Estonia	3.03.2022	333	Pfizer/BioNTech
+Estonia	4.03.2022	382	Pfizer/BioNTech
+Estonia	5.03.2022	589	Pfizer/BioNTech
+Estonia	6.03.2022	675	Pfizer/BioNTech
+Estonia	7.03.2022	784	Pfizer/BioNTech
+Estonia	8.03.2022	1099	Pfizer/BioNTech
+Estonia	9.03.2022	1176	Pfizer/BioNTech
+Estonia	10.03.2022	1205	Pfizer/BioNTech
+Estonia	11.03.2022	1244	Pfizer/BioNTech
+Estonia	12.03.2022	1210	Pfizer/BioNTech
+Estonia	13.03.2022	1178	Pfizer/BioNTech
+Estonia	14.03.2022	1243	Pfizer/BioNTech
+Estonia	15.03.2022	1109	Pfizer/BioNTech
+Estonia	16.03.2022	1061	Pfizer/BioNTech
+Estonia	17.03.2022	1043	Pfizer/BioNTech
+Estonia	18.03.2022	1060	Pfizer/BioNTech
+Estonia	19.03.2022	1000	Pfizer/BioNTech
+Estonia	20.03.2022	1015	Pfizer/BioNTech
+Estonia	21.03.2022	1074	Pfizer/BioNTech
+Estonia	22.03.2022	1106	Pfizer/BioNTech
+Estonia	23.03.2022	1112	Pfizer/BioNTech
+Estonia	24.03.2022	1122	Pfizer/BioNTech
+Finland	25.03.2022		Pfizer/BioNTech
+Finland	26.03.2022	459	Pfizer/BioNTech
+Finland	27.03.2022	459	Pfizer/BioNTech
+Finland	28.03.2022	459	Pfizer/BioNTech
+Finland	29.03.2022	459	Pfizer/BioNTech
+Finland	30.03.2022	736	Pfizer/BioNTech
+Finland	31.03.2022	839	Pfizer/BioNTech
+Finland	1.04.2022	913	Pfizer/BioNTech
+Finland	2.04.2022	1273	Pfizer/BioNTech
+Finland	3.04.2022	1353	Pfizer/BioNTech
+Finland	4.04.2022	1433	Pfizer/BioNTech
+Finland	5.04.2022	1513	Pfizer/BioNTech
+Finland	6.04.2022	1739	Pfizer/BioNTech
+Finland	7.04.2022	2332	Pfizer/BioNTech
+Finland	8.04.2022	3554	Pfizer/BioNTech
+Finland	9.04.2022	4573	Pfizer/BioNTech
+Finland	10.04.2022	4971	Pfizer/BioNTech
+Finland	11.04.2022	5369	Pfizer/BioNTech
+Finland	12.04.2022	5767	Pfizer/BioNTech
+Finland	13.04.2022	5458	Pfizer/BioNTech
+Finland	14.04.2022	5562	Pfizer/BioNTech
+Finland	15.04.2022	6467	Pfizer/BioNTech
+Finland	16.04.2022	6874	Pfizer/BioNTech
+Finland	17.04.2022	7253	Pfizer/BioNTech
+Finland	18.04.2022	7633	Pfizer/BioNTech
+Finland	19.04.2022	8012	Pfizer/BioNTech
+France	20.04.2022		Pfizer/BioNTech
+France	21.04.2022	5000	Pfizer/BioNTech
+France	22.04.2022	8500	Pfizer/BioNTech
+France	23.04.2022	14667	Pfizer/BioNTech
+France	24.04.2022	20000	Pfizer/BioNTech
+France	25.04.2022	18800	Pfizer/BioNTech
+France	26.04.2022	17667	Pfizer/BioNTech
+France	27.04.2022	19622	Pfizer/BioNTech
+France	28.04.2022	26262	Pfizer/BioNTech
+France	29.04.2022	32738	Pfizer/BioNTech
+France	30.04.2022	39031	Pfizer/BioNTech
+France	1.05.2022	43961	Pfizer/BioNTech
+France	2.05.2022	45435	Pfizer/BioNTech
+France	3.05.2022	45018	Pfizer/BioNTech
+France	4.05.2022	48789	Pfizer/BioNTech
+France	5.05.2022	56547	Pfizer/BioNTech
+France	6.05.2022	63659	Pfizer/BioNTech
+France	7.05.2022	72193	Pfizer/BioNTech
+France	8.05.2022	82058	Pfizer/BioNTech
+France	9.05.2022	85096	Pfizer/BioNTech
+France	10.05.2022	86392	Pfizer/BioNTech
+France	11.05.2022	87584	Pfizer/BioNTech
+Germany	12.05.2022		Moderna, Pfizer/BioNTech
+Germany	13.05.2022	19721	Moderna, Pfizer/BioNTech
+Germany	14.05.2022	31436	Moderna, Pfizer/BioNTech
+Germany	15.05.2022	40119	Moderna, Pfizer/BioNTech
+Germany	16.05.2022	39570	Moderna, Pfizer/BioNTech
+Germany	17.05.2022	37778	Moderna, Pfizer/BioNTech
+Germany	18.05.2022	38986	Moderna, Pfizer/BioNTech
+Germany	19.05.2022	36924	Moderna, Pfizer/BioNTech
+Germany	20.05.2022	41060	Moderna, Pfizer/BioNTech
+Germany	21.05.2022	42191	Moderna, Pfizer/BioNTech
+Germany	22.05.2022	42015	Moderna, Pfizer/BioNTech
+Germany	23.05.2022	44865	Moderna, Pfizer/BioNTech
+Germany	24.05.2022	48794	Moderna, Pfizer/BioNTech
+Germany	25.05.2022	50053	Moderna, Pfizer/BioNTech
+Germany	26.05.2022	51184	Moderna, Pfizer/BioNTech
+Germany	27.05.2022	53647	Moderna, Pfizer/BioNTech
+Germany	28.05.2022	57811	Moderna, Pfizer/BioNTech
+Germany	29.05.2022	63158	Moderna, Pfizer/BioNTech
+Germany	30.05.2022	69184	Moderna, Pfizer/BioNTech
+Germany	31.05.2022	73836	Moderna, Pfizer/BioNTech
+Germany	1.06.2022	73987	Moderna, Pfizer/BioNTech
+Germany	2.06.2022	75782	Moderna, Pfizer/BioNTech
+Germany	3.06.2022	76079	Moderna, Pfizer/BioNTech
+Germany	4.06.2022	76635	Moderna, Pfizer/BioNTech
+Germany	5.06.2022	80136	Moderna, Pfizer/BioNTech
+Germany	6.06.2022	78281	Moderna, Pfizer/BioNTech
+Germany	7.06.2022	80900	Moderna, Pfizer/BioNTech
+Germany	8.06.2022	85088	Moderna, Pfizer/BioNTech
+Germany	9.06.2022	87377	Moderna, Pfizer/BioNTech
+Gibraltar	10.06.2022		Pfizer/BioNTech
+Gibraltar	11.06.2022	1025	Pfizer/BioNTech
+Gibraltar	12.06.2022	1040	Pfizer/BioNTech
+Gibraltar	13.06.2022	986	Pfizer/BioNTech
+Gibraltar	14.06.2022	959	Pfizer/BioNTech
+Gibraltar	15.06.2022	943	Pfizer/BioNTech
+Gibraltar	16.06.2022	904	Pfizer/BioNTech
+Gibraltar	17.06.2022	775	Pfizer/BioNTech
+Gibraltar	18.06.2022	713	Pfizer/BioNTech
+Gibraltar	19.06.2022	645	Pfizer/BioNTech
+Gibraltar	20.06.2022	520	Pfizer/BioNTech
+Gibraltar	21.06.2022	527	Pfizer/BioNTech
+Gibraltar	22.06.2022	535	Pfizer/BioNTech
+Gibraltar	23.06.2022	566	Pfizer/BioNTech
+Gibraltar	24.06.2022	642	Pfizer/BioNTech
+Greece	25.06.2022		Pfizer/BioNTech
+Greece	26.06.2022	670	Pfizer/BioNTech
+Greece	27.06.2022	662	Pfizer/BioNTech
+Greece	28.06.2022	642	Pfizer/BioNTech
+Greece	29.06.2022	551	Pfizer/BioNTech
+Greece	30.06.2022	549	Pfizer/BioNTech
+Greece	1.07.2022	576	Pfizer/BioNTech
+Greece	2.07.2022	1370	Pfizer/BioNTech
+Greece	3.07.2022	2168	Pfizer/BioNTech
+Greece	4.07.2022	2680	Pfizer/BioNTech
+Greece	5.07.2022	3385	Pfizer/BioNTech
+Greece	6.07.2022	4599	Pfizer/BioNTech
+Greece	7.07.2022	5290	Pfizer/BioNTech
+Greece	8.07.2022	5748	Pfizer/BioNTech
+Greece	9.07.2022	5667	Pfizer/BioNTech
+Greece	10.07.2022	5709	Pfizer/BioNTech
+Greece	11.07.2022	6308	Pfizer/BioNTech
+Greece	12.07.2022	6384	Pfizer/BioNTech
+Greece	13.07.2022	5784	Pfizer/BioNTech
+Greece	14.07.2022	5654	Pfizer/BioNTech
+Greece	15.07.2022	5486	Pfizer/BioNTech
+Greece	16.07.2022	5083	Pfizer/BioNTech
+Greece	17.07.2022	5283	Pfizer/BioNTech
+Greece	18.07.2022	6102	Pfizer/BioNTech
+Greece	19.07.2022	7522	Pfizer/BioNTech
+Greece	20.07.2022	9371	Pfizer/BioNTech
+Greece	21.07.2022	11092	Pfizer/BioNTech
+Greece	22.07.2022	12128	Pfizer/BioNTech
+Greece	23.07.2022	13165	Pfizer/BioNTech
+Hungary	24.07.2022		Pfizer/BioNTech
+Hungary	25.07.2022	1367	Pfizer/BioNTech
+Hungary	26.07.2022	1348	Pfizer/BioNTech
+Hungary	27.07.2022	1339	Pfizer/BioNTech
+Hungary	28.07.2022	1578	Pfizer/BioNTech
+Hungary	29.07.2022	1722	Pfizer/BioNTech
+Hungary	30.07.2022	1818	Pfizer/BioNTech
+Hungary	31.07.2022	1987	Pfizer/BioNTech
+Hungary	1.08.2022	2648	Pfizer/BioNTech
+Hungary	2.08.2022	3959	Pfizer/BioNTech
+Hungary	3.08.2022	5348	Pfizer/BioNTech
+Hungary	4.08.2022	6375	Pfizer/BioNTech
+Hungary	5.08.2022	7402	Pfizer/BioNTech
+Hungary	6.08.2022	8429	Pfizer/BioNTech
+Hungary	7.08.2022	9083	Pfizer/BioNTech
+Hungary	8.08.2022	9418	Pfizer/BioNTech
+Hungary	9.08.2022	9229	Pfizer/BioNTech
+Hungary	10.08.2022	9026	Pfizer/BioNTech
+Hungary	11.08.2022	8688	Pfizer/BioNTech
+Hungary	12.08.2022	8347	Pfizer/BioNTech
+Hungary	13.08.2022	7455	Pfizer/BioNTech
+Hungary	14.08.2022	7536	Pfizer/BioNTech
+Hungary	15.08.2022	6618	Pfizer/BioNTech
+Hungary	16.08.2022	6069	Pfizer/BioNTech
+Hungary	17.08.2022	5581	Pfizer/BioNTech
+Hungary	18.08.2022	5326	Pfizer/BioNTech
+Hungary	19.08.2022	4778	Pfizer/BioNTech
+Hungary	20.08.2022	4701	Pfizer/BioNTech
+Iceland	21.08.2022		Moderna, Pfizer/BioNTech
+Iceland	22.08.2022	63	Moderna, Pfizer/BioNTech
+Iceland	23.08.2022	63	Moderna, Pfizer/BioNTech
+Iceland	24.08.2022	63	Moderna, Pfizer/BioNTech
+Iceland	25.08.2022	63	Moderna, Pfizer/BioNTech
+Iceland	26.08.2022	63	Moderna, Pfizer/BioNTech
+Iceland	27.08.2022	63	Moderna, Pfizer/BioNTech
+Iceland	28.08.2022	63	Moderna, Pfizer/BioNTech
+Iceland	29.08.2022	63	Moderna, Pfizer/BioNTech
+Iceland	30.08.2022	63	Moderna, Pfizer/BioNTech
+Iceland	31.08.2022	63	Moderna, Pfizer/BioNTech
+Iceland	1.09.2022	63	Moderna, Pfizer/BioNTech
+Iceland	2.09.2022	63	Moderna, Pfizer/BioNTech
+Iceland	3.09.2022	63	Moderna, Pfizer/BioNTech
+Iceland	4.09.2022	63	Moderna, Pfizer/BioNTech
+Iceland	5.09.2022	63	Moderna, Pfizer/BioNTech
+Iceland	6.09.2022	63	Moderna, Pfizer/BioNTech
+Iceland	7.09.2022	63	Moderna, Pfizer/BioNTech
+Iceland	8.09.2022	63	Moderna, Pfizer/BioNTech
+Iceland	9.09.2022	63	Moderna, Pfizer/BioNTech
+Iceland	10.09.2022	63	Moderna, Pfizer/BioNTech
+Iceland	11.09.2022	63	Moderna, Pfizer/BioNTech
+Iceland	12.09.2022	312	Moderna, Pfizer/BioNTech
+Iceland	13.09.2022	560	Moderna, Pfizer/BioNTech
+Iceland	14.09.2022	809	Moderna, Pfizer/BioNTech
+Iceland	15.09.2022	1057	Moderna, Pfizer/BioNTech
+Iceland	16.09.2022	1306	Moderna, Pfizer/BioNTech
+India	17.09.2022		Covaxin, Covishield
+India	18.09.2022	191181	Covaxin, Covishield
+India	19.09.2022	112150	Covaxin, Covishield
+India	20.09.2022	151350	Covaxin, Covishield
+India	21.09.2022	168709	Covaxin, Covishield
+India	22.09.2022	161297	Covaxin, Covishield
+India	23.09.2022	173922	Covaxin, Covishield
+India	24.09.2022	198656	Covaxin, Covishield
+India	25.09.2022	198717	Covaxin, Covishield
+India	26.09.2022	198743	Covaxin, Covishield
+India	27.09.2022	224251	Covaxin, Covishield
+Indonesia	28.09.2022		Sinovac
+Indonesia	29.09.2022	13200	Sinovac
+Indonesia	30.09.2022	13200	Sinovac
+Indonesia	1.10.2022	13200	Sinovac
+Indonesia	2.10.2022	13200	Sinovac
+Indonesia	3.10.2022	13200	Sinovac
+Indonesia	4.10.2022	13200	Sinovac
+Indonesia	5.10.2022	13200	Sinovac
+Indonesia	6.10.2022	13200	Sinovac
+Indonesia	7.10.2022	13200	Sinovac
+Indonesia	8.10.2022	13200	Sinovac
+Indonesia	9.10.2022	12546	Sinovac
+Indonesia	10.10.2022	11892	Sinovac
+Indonesia	11.10.2022	11823	Sinovac
+Ireland	12.10.2022		Pfizer/BioNTech
+Ireland	13.10.2022	550	Pfizer/BioNTech
+Ireland	14.10.2022	550	Pfizer/BioNTech
+Ireland	15.10.2022	550	Pfizer/BioNTech
+Ireland	16.10.2022	550	Pfizer/BioNTech
+Ireland	17.10.2022	1194	Pfizer/BioNTech
+Ireland	18.10.2022	1624	Pfizer/BioNTech
+Ireland	19.10.2022	1931	Pfizer/BioNTech
+Ireland	20.10.2022	3028	Pfizer/BioNTech
+Ireland	21.10.2022	4124	Pfizer/BioNTech
+Ireland	22.10.2022	5221	Pfizer/BioNTech
+Ireland	23.10.2022	6919	Pfizer/BioNTech
+Ireland	24.10.2022	8157	Pfizer/BioNTech
+Ireland	25.10.2022	9394	Pfizer/BioNTech
+Ireland	26.10.2022	9452	Pfizer/BioNTech
+Ireland	27.10.2022	8873	Pfizer/BioNTech
+Ireland	28.10.2022	8293	Pfizer/BioNTech
+Ireland	29.10.2022	7714	Pfizer/BioNTech
+Ireland	30.10.2022	7267	Pfizer/BioNTech
+Ireland	31.10.2022	6819	Pfizer/BioNTech
+Ireland	1.11.2022	6371	Pfizer/BioNTech
+Ireland	2.11.2022	6528	Pfizer/BioNTech
+Ireland	3.11.2022	6686	Pfizer/BioNTech
+Ireland	4.11.2022	6843	Pfizer/BioNTech
+Ireland	5.11.2022	7000	Pfizer/BioNTech
+Isle of Man	6.11.2022		Pfizer/BioNTech
+Isle of Man	7.11.2022	90	Pfizer/BioNTech
+Isle of Man	8.11.2022	138	Pfizer/BioNTech
+Isle of Man	9.11.2022	155	Pfizer/BioNTech
+Isle of Man	10.11.2022	163	Pfizer/BioNTech
+Israel	11.11.2022		Moderna, Pfizer/BioNTech
+Israel	12.11.2022	6887	Moderna, Pfizer/BioNTech
+Israel	13.11.2022	14690	Moderna, Pfizer/BioNTech
+Israel	14.11.2022	23477	Moderna, Pfizer/BioNTech
+Israel	15.11.2022	32331	Moderna, Pfizer/BioNTech
+Israel	16.11.2022	39926	Moderna, Pfizer/BioNTech
+Israel	17.11.2022	39552	Moderna, Pfizer/BioNTech
+Israel	18.11.2022	38469	Moderna, Pfizer/BioNTech
+Israel	19.11.2022	51884	Moderna, Pfizer/BioNTech
+Israel	20.11.2022	67094	Moderna, Pfizer/BioNTech
+Israel	21.11.2022	82835	Moderna, Pfizer/BioNTech
+Israel	22.11.2022	95621	Moderna, Pfizer/BioNTech
+Israel	23.11.2022	107654	Moderna, Pfizer/BioNTech
+Israel	24.11.2022	112314	Moderna, Pfizer/BioNTech
+Israel	25.11.2022	117846	Moderna, Pfizer/BioNTech
+Israel	26.11.2022	124170	Moderna, Pfizer/BioNTech
+Israel	27.11.2022	125626	Moderna, Pfizer/BioNTech
+Israel	28.11.2022	121500	Moderna, Pfizer/BioNTech
+Israel	29.11.2022	114634	Moderna, Pfizer/BioNTech
+Israel	30.11.2022	108735	Moderna, Pfizer/BioNTech
+Israel	1.12.2022	108004	Moderna, Pfizer/BioNTech
+Israel	2.12.2022	104169	Moderna, Pfizer/BioNTech
+Israel	3.12.2022	89553	Moderna, Pfizer/BioNTech
+Israel	4.12.2022	75289	Moderna, Pfizer/BioNTech
+Israel	5.12.2022	66167	Moderna, Pfizer/BioNTech
+Israel	6.12.2022	67059	Moderna, Pfizer/BioNTech
+Israel	7.12.2022	68432	Moderna, Pfizer/BioNTech
+Israel	8.12.2022	68475	Moderna, Pfizer/BioNTech
+Israel	9.12.2022	70010	Moderna, Pfizer/BioNTech
+Israel	10.12.2022	85359	Moderna, Pfizer/BioNTech
+Israel	11.12.2022	106360	Moderna, Pfizer/BioNTech
+Israel	12.12.2022	127524	Moderna, Pfizer/BioNTech
+Israel	13.12.2022	143169	Moderna, Pfizer/BioNTech
+Israel	14.12.2022	158364	Moderna, Pfizer/BioNTech
+Israel	15.12.2022	164426	Moderna, Pfizer/BioNTech
+Israel	16.12.2022	169880	Moderna, Pfizer/BioNTech
+Israel	17.12.2022	177883	Moderna, Pfizer/BioNTech
+Israel	18.12.2022	176343	Moderna, Pfizer/BioNTech
+Italy	19.12.2022		Pfizer/BioNTech
+Italy	20.12.2022	950	Pfizer/BioNTech
+Italy	21.12.2022	926	Pfizer/BioNTech
+Italy	22.12.2022	2147	Pfizer/BioNTech
+Italy	23.12.2022	7848	Pfizer/BioNTech
+Italy	24.12.2022	8456	Pfizer/BioNTech
+Italy	25.12.2022	13319	Pfizer/BioNTech
+Italy	26.12.2022	16365	Pfizer/BioNTech
+Italy	27.12.2022	25812	Pfizer/BioNTech
+Italy	28.12.2022	36875	Pfizer/BioNTech
+Italy	29.12.2022	45417	Pfizer/BioNTech
+Italy	30.12.2022	54829	Pfizer/BioNTech
+Italy	31.12.2022	66485	Pfizer/BioNTech
+Italy	1.01.2023	73108	Pfizer/BioNTech
+Italy	2.01.2023	76632	Pfizer/BioNTech
+Italy	3.01.2023	78150	Pfizer/BioNTech
+Italy	4.01.2023	78193	Pfizer/BioNTech
+Italy	5.01.2023	81858	Pfizer/BioNTech
+Italy	6.01.2023	81516	Pfizer/BioNTech
+Italy	7.01.2023	80095	Pfizer/BioNTech
+Italy	8.01.2023	76658	Pfizer/BioNTech
+Italy	9.01.2023	73130	Pfizer/BioNTech
+Italy	10.01.2023	67599	Pfizer/BioNTech
+Italy	11.01.2023	60503	Pfizer/BioNTech
+Italy	12.01.2023	51507	Pfizer/BioNTech
+Italy	13.01.2023	43534	Pfizer/BioNTech
+Italy	14.01.2023	35131	Pfizer/BioNTech
+Italy	15.01.2023	31852	Pfizer/BioNTech
+Italy	16.01.2023	31537	Pfizer/BioNTech
+Italy	17.01.2023	32241	Pfizer/BioNTech
+Kuwait	18.01.2023		Pfizer/BioNTech
+Latvia	19.01.2023		Pfizer/BioNTech
+Latvia	20.01.2023	877	Pfizer/BioNTech
+Latvia	21.01.2023	832	Pfizer/BioNTech
+Latvia	22.01.2023	602	Pfizer/BioNTech
+Latvia	23.01.2023	486	Pfizer/BioNTech
+Latvia	24.01.2023	417	Pfizer/BioNTech
+Latvia	25.01.2023	371	Pfizer/BioNTech
+Latvia	26.01.2023	338	Pfizer/BioNTech
+Latvia	27.01.2023	339	Pfizer/BioNTech
+Latvia	28.01.2023	338	Pfizer/BioNTech
+Latvia	29.01.2023	433	Pfizer/BioNTech
+Latvia	30.01.2023	542	Pfizer/BioNTech
+Latvia	31.01.2023	565	Pfizer/BioNTech
+Latvia	1.02.2023	592	Pfizer/BioNTech
+Latvia	2.02.2023	767	Pfizer/BioNTech
+Latvia	3.02.2023	872	Pfizer/BioNTech
+Latvia	4.02.2023	976	Pfizer/BioNTech
+Latvia	5.02.2023	1120	Pfizer/BioNTech
+Latvia	6.02.2023	1258	Pfizer/BioNTech
+Latvia	7.02.2023	1309	Pfizer/BioNTech
+Latvia	8.02.2023	1279	Pfizer/BioNTech
+Latvia	9.02.2023	1204	Pfizer/BioNTech
+Latvia	10.02.2023	1098	Pfizer/BioNTech
+Latvia	11.02.2023	993	Pfizer/BioNTech
+Latvia	12.02.2023	773	Pfizer/BioNTech
+Latvia	13.02.2023	537	Pfizer/BioNTech
+Latvia	14.02.2023	460	Pfizer/BioNTech
+Latvia	15.02.2023	491	Pfizer/BioNTech
+Latvia	16.02.2023	418	Pfizer/BioNTech
+Lithuania	17.02.2023		Moderna, Pfizer/BioNTech
+Lithuania	18.02.2023	1208	Moderna, Pfizer/BioNTech
+Lithuania	19.02.2023	1208	Moderna, Pfizer/BioNTech
+Lithuania	20.02.2023	1734	Moderna, Pfizer/BioNTech
+Lithuania	21.02.2023	2047	Moderna, Pfizer/BioNTech
+Lithuania	22.02.2023	1944	Moderna, Pfizer/BioNTech
+Lithuania	23.02.2023	1624	Moderna, Pfizer/BioNTech
+Lithuania	24.02.2023	1410	Moderna, Pfizer/BioNTech
+Lithuania	25.02.2023	1255	Moderna, Pfizer/BioNTech
+Lithuania	26.02.2023	1100	Moderna, Pfizer/BioNTech
+Lithuania	27.02.2023	720	Moderna, Pfizer/BioNTech
+Lithuania	28.02.2023	311	Moderna, Pfizer/BioNTech
+Lithuania	1.03.2023	592	Moderna, Pfizer/BioNTech
+Lithuania	2.03.2023	1180	Moderna, Pfizer/BioNTech
+Lithuania	3.03.2023	1897	Moderna, Pfizer/BioNTech
+Lithuania	4.03.2023	1923	Moderna, Pfizer/BioNTech
+Lithuania	5.03.2023	1905	Moderna, Pfizer/BioNTech
+Lithuania	6.03.2023	2201	Moderna, Pfizer/BioNTech
+Lithuania	7.03.2023	2479	Moderna, Pfizer/BioNTech
+Lithuania	8.03.2023	2843	Moderna, Pfizer/BioNTech
+Lithuania	9.03.2023	3476	Moderna, Pfizer/BioNTech
+Lithuania	10.03.2023	3765	Moderna, Pfizer/BioNTech
+Lithuania	11.03.2023	3877	Moderna, Pfizer/BioNTech
+Lithuania	12.03.2023	4038	Moderna, Pfizer/BioNTech
+Lithuania	13.03.2023	4363	Moderna, Pfizer/BioNTech
+Lithuania	14.03.2023	4960	Moderna, Pfizer/BioNTech
+Lithuania	15.03.2023	4587	Moderna, Pfizer/BioNTech
+Lithuania	16.03.2023	3564	Moderna, Pfizer/BioNTech
+Lithuania	17.03.2023	2581	Moderna, Pfizer/BioNTech
+Lithuania	18.03.2023	2427	Moderna, Pfizer/BioNTech
+Lithuania	19.03.2023	2268	Moderna, Pfizer/BioNTech
+Lithuania	20.03.2023	1633	Moderna, Pfizer/BioNTech
+Luxembourg	21.03.2023		Pfizer/BioNTech
+Luxembourg	22.03.2023	62	Pfizer/BioNTech
+Luxembourg	23.03.2023	62	Pfizer/BioNTech
+Luxembourg	24.03.2023	62	Pfizer/BioNTech
+Luxembourg	25.03.2023	62	Pfizer/BioNTech
+Luxembourg	26.03.2023	62	Pfizer/BioNTech
+Luxembourg	27.03.2023	62	Pfizer/BioNTech
+Luxembourg	28.03.2023	62	Pfizer/BioNTech
+Luxembourg	29.03.2023	62	Pfizer/BioNTech
+Luxembourg	30.03.2023	62	Pfizer/BioNTech
+Luxembourg	31.03.2023	62	Pfizer/BioNTech
+Luxembourg	1.04.2023	62	Pfizer/BioNTech
+Luxembourg	2.04.2023	62	Pfizer/BioNTech
+Luxembourg	3.04.2023	114	Pfizer/BioNTech
+Luxembourg	4.04.2023	177	Pfizer/BioNTech
+Luxembourg	5.04.2023	220	Pfizer/BioNTech
+Luxembourg	6.04.2023	236	Pfizer/BioNTech
+Luxembourg	7.04.2023	252	Pfizer/BioNTech
+Luxembourg	8.04.2023	268	Pfizer/BioNTech
+Luxembourg	9.04.2023	375	Pfizer/BioNTech
+Luxembourg	10.04.2023	417	Pfizer/BioNTech
+Luxembourg	11.04.2023	475	Pfizer/BioNTech
+Luxembourg	12.04.2023	523	Pfizer/BioNTech
+Luxembourg	13.04.2023	537	Pfizer/BioNTech
+Luxembourg	14.04.2023	551	Pfizer/BioNTech
+Luxembourg	15.04.2023	565	Pfizer/BioNTech
+Malta	16.04.2023		Pfizer/BioNTech
+Malta	17.04.2023	259	Pfizer/BioNTech
+Malta	18.04.2023	259	Pfizer/BioNTech
+Malta	19.04.2023	259	Pfizer/BioNTech
+Malta	20.04.2023	259	Pfizer/BioNTech
+Malta	21.04.2023	259	Pfizer/BioNTech
+Malta	22.04.2023	259	Pfizer/BioNTech
+Malta	23.04.2023	259	Pfizer/BioNTech
+Malta	24.04.2023	281	Pfizer/BioNTech
+Malta	25.04.2023	304	Pfizer/BioNTech
+Malta	26.04.2023	327	Pfizer/BioNTech
+Malta	27.04.2023	350	Pfizer/BioNTech
+Malta	28.04.2023	373	Pfizer/BioNTech
+Malta	29.04.2023	396	Pfizer/BioNTech
+Malta	30.04.2023	419	Pfizer/BioNTech
+Malta	1.05.2023	524	Pfizer/BioNTech
+Malta	2.05.2023	629	Pfizer/BioNTech
+Malta	3.05.2023	735	Pfizer/BioNTech
+Malta	4.05.2023	840	Pfizer/BioNTech
+Malta	5.05.2023	938	Pfizer/BioNTech
+Malta	6.05.2023	1036	Pfizer/BioNTech
+Malta	7.05.2023	1162	Pfizer/BioNTech
+Malta	8.05.2023	1178	Pfizer/BioNTech
+Malta	9.05.2023	1162	Pfizer/BioNTech
+Malta	10.05.2023	1170	Pfizer/BioNTech
+Malta	11.05.2023	1182	Pfizer/BioNTech
+Malta	12.05.2023	1190	Pfizer/BioNTech
+Malta	13.05.2023	1182	Pfizer/BioNTech
+Mexico	14.05.2023		Pfizer/BioNTech
+Mexico	15.05.2023	1300	Pfizer/BioNTech
+Mexico	16.05.2023	1300	Pfizer/BioNTech
+Mexico	17.05.2023	1300	Pfizer/BioNTech
+Mexico	18.05.2023	1664	Pfizer/BioNTech
+Mexico	19.05.2023	3121	Pfizer/BioNTech
+Mexico	20.05.2023	3679	Pfizer/BioNTech
+Mexico	21.05.2023	3695	Pfizer/BioNTech
+Mexico	22.05.2023	4051	Pfizer/BioNTech
+Mexico	23.05.2023	4407	Pfizer/BioNTech
+Mexico	24.05.2023	4763	Pfizer/BioNTech
+Mexico	25.05.2023	4912	Pfizer/BioNTech
+Mexico	26.05.2023	4244	Pfizer/BioNTech
+Mexico	27.05.2023	4027	Pfizer/BioNTech
+Mexico	28.05.2023	4230	Pfizer/BioNTech
+Mexico	29.05.2023	4984	Pfizer/BioNTech
+Mexico	30.05.2023	5488	Pfizer/BioNTech
+Mexico	31.05.2023	5876	Pfizer/BioNTech
+Mexico	1.06.2023	6157	Pfizer/BioNTech
+Mexico	2.06.2023	6378	Pfizer/BioNTech
+Mexico	3.06.2023	19912	Pfizer/BioNTech
+Mexico	4.06.2023	38797	Pfizer/BioNTech
+Mexico	5.06.2023	49987	Pfizer/BioNTech
+Mexico	6.06.2023	55493	Pfizer/BioNTech
+Mexico	7.06.2023	55835	Pfizer/BioNTech
+Mexico	8.06.2023	57924	Pfizer/BioNTech
+Mexico	9.06.2023	57892	Pfizer/BioNTech
+Mexico	10.06.2023	44066	Pfizer/BioNTech
+Mexico	11.06.2023	31765	Pfizer/BioNTech
+Mexico	12.06.2023	28205	Pfizer/BioNTech
+Mexico	13.06.2023	22217	Pfizer/BioNTech
+Mexico	14.06.2023	22498	Pfizer/BioNTech
+Mexico	15.06.2023	21797	Pfizer/BioNTech
+Netherlands	16.06.2023		Moderna, Pfizer/BioNTech
+Netherlands	17.06.2023	9000	Moderna, Pfizer/BioNTech
+Netherlands	18.06.2023	10500	Moderna, Pfizer/BioNTech
+Netherlands	19.06.2023	8000	Moderna, Pfizer/BioNTech
+Netherlands	20.06.2023	7000	Moderna, Pfizer/BioNTech
+Netherlands	21.06.2023	5900	Moderna, Pfizer/BioNTech
+Netherlands	22.06.2023	6500	Moderna, Pfizer/BioNTech
+Netherlands	23.06.2023	5857	Moderna, Pfizer/BioNTech
+Netherlands	24.06.2023	5143	Moderna, Pfizer/BioNTech
+Netherlands	25.06.2023	4000	Moderna, Pfizer/BioNTech
+Netherlands	26.06.2023	5143	Moderna, Pfizer/BioNTech
+Netherlands	27.06.2023	6143	Moderna, Pfizer/BioNTech
+Netherlands	28.06.2023	7024	Moderna, Pfizer/BioNTech
+Netherlands	29.06.2023	6762	Moderna, Pfizer/BioNTech
+Netherlands	30.06.2023	7571	Moderna, Pfizer/BioNTech
+Netherlands	1.07.2023	9500	Moderna, Pfizer/BioNTech
+Netherlands	2.07.2023	11429	Moderna, Pfizer/BioNTech
+Northern Ireland	3.07.2023		Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	4.07.2023	1778	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	5.07.2023	1778	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	6.07.2023	1778	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	7.07.2023	1778	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	8.07.2023	1778	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	9.07.2023	1778	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	10.07.2023	1778	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	11.07.2023	1829	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	12.07.2023	1880	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	13.07.2023	1931	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	14.07.2023	1982	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	15.07.2023	2033	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	16.07.2023	2084	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	17.07.2023	2135	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	18.07.2023	2054	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	19.07.2023	1972	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	20.07.2023	1890	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	21.07.2023	1808	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	22.07.2023	1726	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	23.07.2023	1645	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	24.07.2023	1563	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	25.07.2023	2360	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	26.07.2023	3157	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	27.07.2023	3954	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	28.07.2023	4751	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	29.07.2023	5548	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	30.07.2023	6345	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	31.07.2023	7143	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	1.08.2023	7197	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	2.08.2023	7574	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	3.08.2023	8332	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	4.08.2023	9044	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	5.08.2023	8530	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	6.08.2023	7964	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	7.08.2023	7826	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	8.08.2023	7852	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	9.08.2023	7306	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	10.08.2023	6404	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	11.08.2023	5674	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	12.08.2023	5664	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	13.08.2023	5396	Oxford/AstraZeneca, Pfizer/BioNTech
+Northern Ireland	14.08.2023	5089	Oxford/AstraZeneca, Pfizer/BioNTech
+Norway	15.08.2023		Pfizer/BioNTech
+Norway	16.08.2023	600	Pfizer/BioNTech
+Norway	17.08.2023	834	Pfizer/BioNTech
+Norway	18.08.2023	697	Pfizer/BioNTech
+Norway	19.08.2023	540	Pfizer/BioNTech
+Norway	20.08.2023	434	Pfizer/BioNTech
+Norway	21.08.2023	361	Pfizer/BioNTech
+Norway	22.08.2023	310	Pfizer/BioNTech
+Norway	23.08.2023	224	Pfizer/BioNTech
+Norway	24.08.2023	560	Pfizer/BioNTech
+Norway	25.08.2023	1772	Pfizer/BioNTech
+Norway	26.08.2023	2696	Pfizer/BioNTech
+Norway	27.08.2023	2924	Pfizer/BioNTech
+Norway	28.08.2023	2942	Pfizer/BioNTech
+Norway	29.08.2023	2958	Pfizer/BioNTech
+Norway	30.08.2023	3006	Pfizer/BioNTech
+Norway	31.08.2023	3105	Pfizer/BioNTech
+Norway	1.09.2023	3201	Pfizer/BioNTech
+Norway	2.09.2023	3447	Pfizer/BioNTech
+Norway	3.09.2023	3847	Pfizer/BioNTech
+Norway	4.09.2023	3929	Pfizer/BioNTech
+Norway	5.09.2023	3955	Pfizer/BioNTech
+Norway	6.09.2023	4120	Pfizer/BioNTech
+Norway	7.09.2023	4276	Pfizer/BioNTech
+Norway	8.09.2023	4356	Pfizer/BioNTech
+Norway	9.09.2023	4303	Pfizer/BioNTech
+Norway	10.09.2023	4109	Pfizer/BioNTech
+Norway	11.09.2023	4059	Pfizer/BioNTech
+Norway	12.09.2023	4027	Pfizer/BioNTech
+Oman	13.09.2023		Pfizer/BioNTech
+Oman	14.09.2023	1646	Pfizer/BioNTech
+Oman	15.09.2023	1663	Pfizer/BioNTech
+Oman	16.09.2023	1600	Pfizer/BioNTech
+Oman	17.09.2023	1289	Pfizer/BioNTech
+Oman	18.09.2023	1103	Pfizer/BioNTech
+Oman	19.09.2023	1185	Pfizer/BioNTech
+Oman	20.09.2023	1287	Pfizer/BioNTech
+Oman	21.09.2023	1341	Pfizer/BioNTech
+Oman	22.09.2023	1280	Pfizer/BioNTech
+Oman	23.09.2023	1199	Pfizer/BioNTech
+Oman	24.09.2023	1158	Pfizer/BioNTech
+Oman	25.09.2023	1113	Pfizer/BioNTech
+Oman	26.09.2023	1012	Pfizer/BioNTech
+Oman	27.09.2023	1080	Pfizer/BioNTech
+Oman	28.09.2023	1128	Pfizer/BioNTech
+Oman	29.09.2023	1249	Pfizer/BioNTech
+Oman	30.09.2023	1328	Pfizer/BioNTech
+Oman	1.10.2023	1358	Pfizer/BioNTech
+Oman	2.10.2023	1393	Pfizer/BioNTech
+Oman	3.10.2023	1363	Pfizer/BioNTech
+Oman	4.10.2023	1210	Pfizer/BioNTech
+Oman	5.10.2023	1057	Pfizer/BioNTech
+Oman	6.10.2023	971	Pfizer/BioNTech
+Oman	7.10.2023	817	Pfizer/BioNTech
+Oman	8.10.2023	830	Pfizer/BioNTech
+Oman	9.10.2023	843	Pfizer/BioNTech
+Oman	10.10.2023	1046	Pfizer/BioNTech
+Panama	11.10.2023		Pfizer/BioNTech
+Panama	12.10.2023	6	Pfizer/BioNTech
+Panama	13.10.2023	1364	Pfizer/BioNTech
+Panama	14.10.2023	1694	Pfizer/BioNTech
+Panama	15.10.2023	1398	Pfizer/BioNTech
+Panama	16.10.2023	1284	Pfizer/BioNTech
+Poland	17.10.2023		Pfizer/BioNTech
+Poland	18.10.2023	4300	Pfizer/BioNTech
+Poland	19.10.2023	17150	Pfizer/BioNTech
+Poland	20.10.2023	15200	Pfizer/BioNTech
+Poland	21.10.2023	11749	Pfizer/BioNTech
+Poland	22.10.2023	9678	Pfizer/BioNTech
+Poland	23.10.2023	8139	Pfizer/BioNTech
+Poland	24.10.2023	12889	Pfizer/BioNTech
+Poland	25.10.2023	19132	Pfizer/BioNTech
+Poland	26.10.2023	17723	Pfizer/BioNTech
+Poland	27.10.2023	20194	Pfizer/BioNTech
+Poland	28.10.2023	21399	Pfizer/BioNTech
+Poland	29.10.2023	21376	Pfizer/BioNTech
+Poland	30.10.2023	21746	Pfizer/BioNTech
+Poland	31.10.2023	23659	Pfizer/BioNTech
+Poland	1.11.2023	24199	Pfizer/BioNTech
+Poland	2.11.2023	29836	Pfizer/BioNTech
+Poland	3.11.2023	31646	Pfizer/BioNTech
+Poland	4.11.2023	34025	Pfizer/BioNTech
+Poland	5.11.2023	36754	Pfizer/BioNTech
+Poland	6.11.2023	38059	Pfizer/BioNTech
+Poland	7.11.2023	33904	Pfizer/BioNTech
+Poland	8.11.2023	33087	Pfizer/BioNTech
+Poland	9.11.2023	31796	Pfizer/BioNTech
+Poland	10.11.2023	33503	Pfizer/BioNTech
+Poland	11.11.2023	35331	Pfizer/BioNTech
+Poland	12.11.2023	34837	Pfizer/BioNTech
+Poland	13.11.2023	34001	Pfizer/BioNTech
+Portugal	14.11.2023		Pfizer/BioNTech
+Portugal	15.11.2023	2791	Pfizer/BioNTech
+Portugal	16.11.2023	7702	Pfizer/BioNTech
+Portugal	17.11.2023	8527	Pfizer/BioNTech
+Portugal	18.11.2023	6946	Pfizer/BioNTech
+Portugal	19.11.2023	5557	Pfizer/BioNTech
+Portugal	20.11.2023	4631	Pfizer/BioNTech
+Portugal	21.11.2023	3970	Pfizer/BioNTech
+Portugal	22.11.2023	3702	Pfizer/BioNTech
+Portugal	23.11.2023	3724	Pfizer/BioNTech
+Portugal	24.11.2023	4416	Pfizer/BioNTech
+Portugal	25.11.2023	5572	Pfizer/BioNTech
+Portugal	26.11.2023	5929	Pfizer/BioNTech
+Portugal	27.11.2023	5943	Pfizer/BioNTech
+Portugal	28.11.2023	5949	Pfizer/BioNTech
+Portugal	29.11.2023	5944	Pfizer/BioNTech
+Portugal	30.11.2023	5676	Pfizer/BioNTech
+Portugal	1.12.2023	5501	Pfizer/BioNTech
+Portugal	2.12.2023	5623	Pfizer/BioNTech
+Portugal	3.12.2023	6335	Pfizer/BioNTech
+Portugal	4.12.2023	6540	Pfizer/BioNTech
+Portugal	5.12.2023	6701	Pfizer/BioNTech
+Portugal	6.12.2023	7061	Pfizer/BioNTech
+Portugal	7.12.2023	8896	Pfizer/BioNTech
+Portugal	8.12.2023	11058	Pfizer/BioNTech
+Portugal	9.12.2023	14194	Pfizer/BioNTech
+Portugal	10.12.2023	16876	Pfizer/BioNTech
+Portugal	11.12.2023	18770	Pfizer/BioNTech
+Portugal	12.12.2023	19200	Pfizer/BioNTech
+Romania	13.12.2023		Pfizer/BioNTech
+Romania	14.12.2023	712	Pfizer/BioNTech
+Romania	15.12.2023	1800	Pfizer/BioNTech
+Romania	16.12.2023	2741	Pfizer/BioNTech
+Romania	17.12.2023	2398	Pfizer/BioNTech
+Romania	18.12.2023	2235	Pfizer/BioNTech
+Romania	19.12.2023	1922	Pfizer/BioNTech
+Romania	20.12.2023	3349	Pfizer/BioNTech
+Romania	21.12.2023	5547	Pfizer/BioNTech
+Romania	22.12.2023	7555	Pfizer/BioNTech
+Romania	23.12.2023	9444	Pfizer/BioNTech
+Romania	24.12.2023	11579	Pfizer/BioNTech
+Romania	25.12.2023	12723	Pfizer/BioNTech
+Romania	26.12.2023	13528	Pfizer/BioNTech
+Romania	27.12.2023	14240	Pfizer/BioNTech
+Romania	28.12.2023	14120	Pfizer/BioNTech
+Romania	29.12.2023	13673	Pfizer/BioNTech
+Romania	30.12.2023	13030	Pfizer/BioNTech
+Romania	31.12.2023	12995	Pfizer/BioNTech
+Romania	1.01.2024	13398	Pfizer/BioNTech
+Romania	2.01.2024	13824	Pfizer/BioNTech
+Romania	3.01.2024	15721	Pfizer/BioNTech
+Romania	4.01.2024	18514	Pfizer/BioNTech
+Romania	5.01.2024	22017	Pfizer/BioNTech
+Romania	6.01.2024	25783	Pfizer/BioNTech
+Romania	7.01.2024	28895	Pfizer/BioNTech
+Romania	8.01.2024	31828	Pfizer/BioNTech
+Romania	9.01.2024	34461	Pfizer/BioNTech
+Romania	10.01.2024	35627	Pfizer/BioNTech
+Russia	11.01.2024		Sputnik V
+Russia	12.01.2024	3357	Sputnik V
+Russia	13.01.2024	3357	Sputnik V
+Russia	14.01.2024	3357	Sputnik V
+Russia	15.01.2024	3357	Sputnik V
+Russia	16.01.2024	3357	Sputnik V
+Russia	17.01.2024	3357	Sputnik V
+Russia	18.01.2024	3357	Sputnik V
+Russia	19.01.2024	12592	Sputnik V
+Russia	20.01.2024	21827	Sputnik V
+Russia	21.01.2024	31061	Sputnik V
+Russia	22.01.2024	40296	Sputnik V
+Russia	23.01.2024	49531	Sputnik V
+Russia	24.01.2024	58765	Sputnik V
+Russia	25.01.2024	68000	Sputnik V
+Russia	26.01.2024	68000	Sputnik V
+Russia	27.01.2024	68000	Sputnik V
+Russia	28.01.2024	68000	Sputnik V
+Russia	29.01.2024	68000	Sputnik V
+Russia	30.01.2024	60883	Sputnik V
+Russia	31.01.2024	53766	Sputnik V
+Russia	1.02.2024	46649	Sputnik V
+Russia	2.02.2024	39532	Sputnik V
+Russia	3.02.2024	32416	Sputnik V
+Russia	4.02.2024	25299	Sputnik V
+Russia	5.02.2024	18182	Sputnik V
+Russia	6.02.2024	18182	Sputnik V
+Russia	7.02.2024	18182	Sputnik V
+Russia	8.02.2024	18182	Sputnik V
+Russia	9.02.2024	18182	Sputnik V
+Saudi Arabia	10.02.2024		Pfizer/BioNTech
+Saudi Arabia	11.02.2024	37862	Pfizer/BioNTech
+Saudi Arabia	12.02.2024	23990	Pfizer/BioNTech
+Saudi Arabia	13.02.2024	19366	Pfizer/BioNTech
+Saudi Arabia	14.02.2024	17055	Pfizer/BioNTech
+Saudi Arabia	15.02.2024	15667	Pfizer/BioNTech
+Saudi Arabia	16.02.2024	16312	Pfizer/BioNTech
+Saudi Arabia	17.02.2024	16772	Pfizer/BioNTech
+Saudi Arabia	18.02.2024	14153	Pfizer/BioNTech
+Saudi Arabia	19.02.2024	15498	Pfizer/BioNTech
+Saudi Arabia	20.02.2024	16843	Pfizer/BioNTech
+Saudi Arabia	21.02.2024	18187	Pfizer/BioNTech
+Scotland	22.02.2024		Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	23.02.2024	5821	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	24.02.2024	5821	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	25.02.2024	5821	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	26.02.2024	5821	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	27.02.2024	5821	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	28.02.2024	5821	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	29.02.2024	5821	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	1.03.2024	5690	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	2.03.2024	5558	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	3.03.2024	5426	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	4.03.2024	5295	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	5.03.2024	5163	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	6.03.2024	5031	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	7.03.2024	4899	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	8.03.2024	4635	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	9.03.2024	4370	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	10.03.2024	4105	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	11.03.2024	3841	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	12.03.2024	3576	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	13.03.2024	3312	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	14.03.2024	3047	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	15.03.2024	3650	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	16.03.2024	4254	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	17.03.2024	4858	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	18.03.2024	5461	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	19.03.2024	6065	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	20.03.2024	6668	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	21.03.2024	7272	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	22.03.2024	8042	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	23.03.2024	9311	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	24.03.2024	10621	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	25.03.2024	11979	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	26.03.2024	12869	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	27.03.2024	13760	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	28.03.2024	14651	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	29.03.2024	15667	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	30.03.2024	17018	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	31.03.2024	18277	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	1.04.2024	19282	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	2.04.2024	20597	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	3.04.2024	22034	Oxford/AstraZeneca, Pfizer/BioNTech
+Scotland	4.04.2024	21750	Oxford/AstraZeneca, Pfizer/BioNTech
+Serbia	5.04.2024		Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	6.04.2024	1150	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	7.04.2024	1150	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	8.04.2024	1503	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	9.04.2024	1680	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	10.04.2024	1785	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	11.04.2024	1856	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	12.04.2024	2221	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	13.04.2024	2687	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	14.04.2024	3153	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	15.04.2024	3468	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	16.04.2024	3783	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	17.04.2024	4098	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	18.04.2024	9528	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	19.04.2024	13880	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	20.04.2024	19485	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	21.04.2024	26632	Pfizer/BioNTech, Sinopharm, Sputnik V
+Serbia	22.04.2024	31534	Pfizer/BioNTech, Sinopharm, Sputnik V
+Seychelles	23.04.2024		Sinopharm
+Seychelles	24.04.2024	500	Sinopharm
+Seychelles	25.04.2024	500	Sinopharm
+Seychelles	26.04.2024	500	Sinopharm
+Seychelles	27.04.2024	500	Sinopharm
+Seychelles	28.04.2024	600	Sinopharm
+Seychelles	29.04.2024	667	Sinopharm
+Seychelles	30.04.2024	1000	Sinopharm
+Seychelles	1.05.2024	1118	Sinopharm
+Seychelles	2.05.2024	1236	Sinopharm
+Seychelles	3.05.2024	1354	Sinopharm
+Seychelles	4.05.2024	1595	Sinopharm
+Seychelles	5.05.2024	1718	Sinopharm
+Seychelles	6.05.2024	1841	Sinopharm
+Seychelles	7.05.2024	1622	Sinopharm
+Singapore	8.05.2024		Pfizer/BioNTech
+Singapore	9.05.2024	2800	Pfizer/BioNTech
+Singapore	10.05.2024	4090	Pfizer/BioNTech
+Singapore	11.05.2024	4520	Pfizer/BioNTech
+Singapore	12.05.2024	4735	Pfizer/BioNTech
+Singapore	13.05.2024	4864	Pfizer/BioNTech
+Singapore	14.05.2024	4950	Pfizer/BioNTech
+Singapore	15.05.2024	5011	Pfizer/BioNTech
+Singapore	16.05.2024	5380	Pfizer/BioNTech
+Singapore	17.05.2024	5380	Pfizer/BioNTech
+Singapore	18.05.2024	5380	Pfizer/BioNTech
+Singapore	19.05.2024	5380	Pfizer/BioNTech
+Slovakia	20.05.2024		Pfizer/BioNTech
+Slovakia	21.05.2024	425	Pfizer/BioNTech
+Slovakia	22.05.2024	3309	Pfizer/BioNTech
+Slovakia	23.05.2024	4544	Pfizer/BioNTech
+Slovakia	24.05.2024	5137	Pfizer/BioNTech
+Slovakia	25.05.2024	4456	Pfizer/BioNTech
+Slovakia	26.05.2024	4221	Pfizer/BioNTech
+Slovakia	27.05.2024	4174	Pfizer/BioNTech
+Slovakia	28.05.2024	5616	Pfizer/BioNTech
+Slovakia	29.05.2024	5661	Pfizer/BioNTech
+Slovakia	30.05.2024	5685	Pfizer/BioNTech
+Slovakia	31.05.2024	5744	Pfizer/BioNTech
+Slovakia	1.06.2024	5669	Pfizer/BioNTech
+Slovakia	2.06.2024	5241	Pfizer/BioNTech
+Slovakia	3.06.2024	5968	Pfizer/BioNTech
+Slovakia	4.06.2024	5473	Pfizer/BioNTech
+Slovakia	5.06.2024	5585	Pfizer/BioNTech
+Slovakia	6.06.2024	5535	Pfizer/BioNTech
+Slovenia	7.06.2024		Pfizer/BioNTech
+Slovenia	8.06.2024	1270	Pfizer/BioNTech
+Slovenia	9.06.2024	1484	Pfizer/BioNTech
+Slovenia	10.06.2024	2110	Pfizer/BioNTech
+Slovenia	11.06.2024	2601	Pfizer/BioNTech
+Slovenia	12.06.2024	2718	Pfizer/BioNTech
+Slovenia	13.06.2024	2333	Pfizer/BioNTech
+Slovenia	14.06.2024	2087	Pfizer/BioNTech
+Slovenia	15.06.2024	2183	Pfizer/BioNTech
+Slovenia	16.06.2024	2223	Pfizer/BioNTech
+Slovenia	17.06.2024	2471	Pfizer/BioNTech
+Slovenia	18.06.2024	2689	Pfizer/BioNTech
+Slovenia	19.06.2024	3036	Pfizer/BioNTech
+Slovenia	20.06.2024	3073	Pfizer/BioNTech
+Slovenia	21.06.2024	3070	Pfizer/BioNTech
+Slovenia	22.06.2024	2942	Pfizer/BioNTech
+Slovenia	23.06.2024	2772	Pfizer/BioNTech
+Slovenia	24.06.2024	2415	Pfizer/BioNTech
+Slovenia	25.06.2024	2420	Pfizer/BioNTech
+Slovenia	26.06.2024	2009	Pfizer/BioNTech
+Slovenia	27.06.2024	2034	Pfizer/BioNTech
+Slovenia	28.06.2024	1992	Pfizer/BioNTech
+Spain	29.06.2024		Moderna, Pfizer/BioNTech
+Spain	30.06.2024	56505	Moderna, Pfizer/BioNTech
+Spain	1.07.2024	45248	Moderna, Pfizer/BioNTech
+Spain	2.07.2024	41496	Moderna, Pfizer/BioNTech
+Spain	3.07.2024	48786	Moderna, Pfizer/BioNTech
+Spain	4.07.2024	47569	Moderna, Pfizer/BioNTech
+Spain	5.07.2024	46759	Moderna, Pfizer/BioNTech
+Spain	6.07.2024	46180	Moderna, Pfizer/BioNTech
+Spain	7.07.2024	49826	Moderna, Pfizer/BioNTech
+Spain	8.07.2024	58330	Moderna, Pfizer/BioNTech
+Spain	9.07.2024	66980	Moderna, Pfizer/BioNTech
+Spain	10.07.2024	70139	Moderna, Pfizer/BioNTech
+Spain	11.07.2024	70181	Moderna, Pfizer/BioNTech
+Spain	12.07.2024	70223	Moderna, Pfizer/BioNTech
+Spain	13.07.2024	70264	Moderna, Pfizer/BioNTech
+Spain	14.07.2024	68282	Moderna, Pfizer/BioNTech
+Spain	15.07.2024	63471	Moderna, Pfizer/BioNTech
+Spain	16.07.2024	61016	Moderna, Pfizer/BioNTech
+Spain	17.07.2024	56696	Moderna, Pfizer/BioNTech
+Spain	18.07.2024	53971	Moderna, Pfizer/BioNTech
+Spain	19.07.2024	51247	Moderna, Pfizer/BioNTech
+Spain	20.07.2024	48522	Moderna, Pfizer/BioNTech
+Sweden	21.07.2024		Pfizer/BioNTech
+Sweden	22.07.2024	3859	Pfizer/BioNTech
+Sweden	23.07.2024	3859	Pfizer/BioNTech
+Sweden	24.07.2024	3859	Pfizer/BioNTech
+Sweden	25.07.2024	3859	Pfizer/BioNTech
+Sweden	26.07.2024	3859	Pfizer/BioNTech
+Sweden	27.07.2024	3859	Pfizer/BioNTech
+Sweden	28.07.2024	3859	Pfizer/BioNTech
+Sweden	29.07.2024	4294	Pfizer/BioNTech
+Sweden	30.07.2024	4729	Pfizer/BioNTech
+Sweden	31.07.2024	5165	Pfizer/BioNTech
+Sweden	1.08.2024	5600	Pfizer/BioNTech
+Sweden	2.08.2024	6035	Pfizer/BioNTech
+Sweden	3.08.2024	6470	Pfizer/BioNTech
+Sweden	4.08.2024	6905	Pfizer/BioNTech
+Sweden	5.08.2024	7292	Pfizer/BioNTech
+Sweden	6.08.2024	7680	Pfizer/BioNTech
+Sweden	7.08.2024	8067	Pfizer/BioNTech
+Sweden	8.08.2024	8454	Pfizer/BioNTech
+Sweden	9.08.2024	8841	Pfizer/BioNTech
+Sweden	10.08.2024	9228	Pfizer/BioNTech
+Sweden	11.08.2024	9616	Pfizer/BioNTech
+Switzerland	12.08.2024		Pfizer/BioNTech
+Switzerland	13.08.2024	3000	Pfizer/BioNTech
+Switzerland	14.08.2024	3000	Pfizer/BioNTech
+Switzerland	15.08.2024	3000	Pfizer/BioNTech
+Switzerland	16.08.2024	3000	Pfizer/BioNTech
+Switzerland	17.08.2024	3000	Pfizer/BioNTech
+Switzerland	18.08.2024	3000	Pfizer/BioNTech
+Switzerland	19.08.2024	3000	Pfizer/BioNTech
+Switzerland	20.08.2024	3000	Pfizer/BioNTech
+Switzerland	21.08.2024	3000	Pfizer/BioNTech
+Switzerland	22.08.2024	3000	Pfizer/BioNTech
+Switzerland	23.08.2024	3000	Pfizer/BioNTech
+Switzerland	24.08.2024	3000	Pfizer/BioNTech
+Switzerland	25.08.2024	3000	Pfizer/BioNTech
+Switzerland	26.08.2024	3000	Pfizer/BioNTech
+Switzerland	27.08.2024	3000	Pfizer/BioNTech
+Switzerland	28.08.2024	3000	Pfizer/BioNTech
+Switzerland	29.08.2024	3000	Pfizer/BioNTech
+Switzerland	30.08.2024	3000	Pfizer/BioNTech
+Switzerland	31.08.2024	3000	Pfizer/BioNTech
+Switzerland	1.09.2024	3000	Pfizer/BioNTech
+Switzerland	2.09.2024	3000	Pfizer/BioNTech
+Switzerland	3.09.2024	3000	Pfizer/BioNTech
+Switzerland	4.09.2024	3829	Pfizer/BioNTech
+Switzerland	5.09.2024	4657	Pfizer/BioNTech
+Switzerland	6.09.2024	5486	Pfizer/BioNTech
+Switzerland	7.09.2024	6314	Pfizer/BioNTech
+Switzerland	8.09.2024	7143	Pfizer/BioNTech
+Switzerland	9.09.2024	10984	Pfizer/BioNTech
+Switzerland	10.09.2024	14826	Pfizer/BioNTech
+Turkey	11.09.2024		Sinovac
+Turkey	12.09.2024	279452	Sinovac
+Turkey	13.09.2024	308326	Sinovac
+Turkey	14.09.2024	225634	Sinovac
+Turkey	15.09.2024	176613	Sinovac
+Turkey	16.09.2024	166482	Sinovac
+Turkey	17.09.2024	158439	Sinovac
+Turkey	18.09.2024	150356	Sinovac
+Turkey	19.09.2024	120115	Sinovac
+Turkey	20.09.2024	83651	Sinovac
+Turkey	21.09.2024	78569	Sinovac
+Turkey	22.09.2024	76886	Sinovac
+Turkey	23.09.2024	67192	Sinovac
+United Arab Emirates	24.09.2024		Pfizer/BioNTech, Sinopharm
+United Arab Emirates	25.09.2024	30698	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	26.09.2024	30698	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	27.09.2024	38418	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	28.09.2024	48512	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	29.09.2024	52053	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	30.09.2024	56825	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	1.10.2024	64193	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	2.10.2024	76797	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	3.10.2024	91448	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	4.10.2024	103490	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	5.10.2024	111082	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	6.10.2024	113744	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	7.10.2024	114896	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	8.10.2024	112816	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	9.10.2024	109510	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	10.10.2024	102605	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	11.10.2024	96156	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	12.10.2024	89839	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	13.10.2024	86430	Pfizer/BioNTech, Sinopharm
+United Arab Emirates	14.10.2024	85653	Pfizer/BioNTech, Sinopharm
+United Kingdom	15.10.2024		Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	16.10.2024	46423	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	17.10.2024	46423	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	18.10.2024	46423	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	19.10.2024	46423	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	20.10.2024	46423	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	21.10.2024	46423	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	22.10.2024	46423	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	23.10.2024	47738	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	24.10.2024	49053	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	25.10.2024	50369	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	26.10.2024	51684	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	27.10.2024	52999	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	28.10.2024	54315	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	29.10.2024	55630	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	30.10.2024	74138	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	31.10.2024	92647	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	1.11.2024	111155	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	2.11.2024	129663	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	3.11.2024	148171	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	4.11.2024	166680	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	5.11.2024	185188	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	6.11.2024	182424	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	7.11.2024	187930	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	8.11.2024	202716	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	9.11.2024	222253	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	10.11.2024	242692	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	11.11.2024	256292	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	12.11.2024	262404	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	13.11.2024	268518	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	14.11.2024	286118	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	15.11.2024	297294	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	16.11.2024	310246	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	17.11.2024	331933	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	18.11.2024	362307	Oxford/AstraZeneca, Pfizer/BioNTech
+United Kingdom	19.11.2024	361321	Oxford/AstraZeneca, Pfizer/BioNTech
+United States	20.11.2024		Moderna, Pfizer/BioNTech
+United States	21.11.2024	57909	Moderna, Pfizer/BioNTech
+United States	22.11.2024	127432	Moderna, Pfizer/BioNTech
+United States	23.11.2024	150606	Moderna, Pfizer/BioNTech
+United States	24.11.2024	191001	Moderna, Pfizer/BioNTech
+United States	25.11.2024	215238	Moderna, Pfizer/BioNTech
+United States	26.11.2024	231396	Moderna, Pfizer/BioNTech
+United States	27.11.2024	211379	Moderna, Pfizer/BioNTech
+United States	28.11.2024	216147	Moderna, Pfizer/BioNTech
+United States	29.11.2024	235685	Moderna, Pfizer/BioNTech
+United States	30.11.2024	255223	Moderna, Pfizer/BioNTech
+United States	1.12.2024	278776	Moderna, Pfizer/BioNTech
+United States	2.12.2024	302329	Moderna, Pfizer/BioNTech
+United States	3.12.2024	325882	Moderna, Pfizer/BioNTech
+United States	4.12.2024	336949	Moderna, Pfizer/BioNTech
+United States	5.12.2024	348017	Moderna, Pfizer/BioNTech
+United States	6.12.2024	339372	Moderna, Pfizer/BioNTech
+United States	7.12.2024	358887	Moderna, Pfizer/BioNTech
+United States	8.12.2024	378253	Moderna, Pfizer/BioNTech
+United States	9.12.2024	419933	Moderna, Pfizer/BioNTech
+United States	10.12.2024	461263	Moderna, Pfizer/BioNTech
+United States	11.12.2024	546636	Moderna, Pfizer/BioNTech
+United States	12.12.2024	632009	Moderna, Pfizer/BioNTech
+United States	13.12.2024	641524	Moderna, Pfizer/BioNTech
+United States	14.12.2024	710238	Moderna, Pfizer/BioNTech
+United States	15.12.2024	747082	Moderna, Pfizer/BioNTech
+United States	16.12.2024	798707	Moderna, Pfizer/BioNTech
+United States	17.12.2024	811670	Moderna, Pfizer/BioNTech
+United States	18.12.2024	824632	Moderna, Pfizer/BioNTech
+United States	19.12.2024	837595	Moderna, Pfizer/BioNTech
+United States	20.12.2024	911493	Moderna, Pfizer/BioNTech
+United States	21.12.2024	892403	Moderna, Pfizer/BioNTech
+United States	22.12.2024	913912	Moderna, Pfizer/BioNTech
+United States	23.12.2024	975540	Moderna, Pfizer/BioNTech
+United States	24.12.2024	1057387	Moderna, Pfizer/BioNTech
+United States	25.12.2024	1122182	Moderna, Pfizer/BioNTech
+United States	26.12.2024	1126251	Moderna, Pfizer/BioNTech
+Wales	27.12.2024		Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	28.12.2024	2198	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	29.12.2024	2198	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	30.12.2024	2198	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	31.12.2024	2198	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	1.01.2025	2198	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	2.01.2025	2198	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	3.01.2025	2198	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	4.01.2025	2136	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	5.01.2025	2074	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	6.01.2025	2012	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	7.01.2025	1950	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	8.01.2025	1887	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	9.01.2025	1825	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	10.01.2025	1763	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	11.01.2025	1796	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	12.01.2025	1830	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	13.01.2025	1863	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	14.01.2025	1896	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	15.01.2025	1929	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	16.01.2025	1962	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	17.01.2025	1995	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	18.01.2025	2450	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	19.01.2025	2904	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	20.01.2025	3359	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	21.01.2025	3814	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	22.01.2025	4268	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	23.01.2025	4723	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	24.01.2025	5177	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	25.01.2025	5183	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	26.01.2025	5893	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	27.01.2025	6812	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	28.01.2025	7988	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	29.01.2025	8460	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	30.01.2025	8931	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	31.01.2025	9403	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	1.02.2025	10123	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	2.02.2025	10672	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	3.02.2025	11105	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	4.02.2025	12318	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	5.02.2025	15148	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	6.02.2025	17371	Oxford/AstraZeneca, Pfizer/BioNTech
+Wales	7.02.2025	17063	Oxford/AstraZeneca, Pfizer/BioNTech
